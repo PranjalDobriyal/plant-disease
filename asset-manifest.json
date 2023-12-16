@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/plant-disease/static/css/main.71d072cd.css",
+    "main.js": "/plant-disease/static/js/main.99d8b444.js",
+    "static/js/787.3593ac94.chunk.js": "/plant-disease/static/js/787.3593ac94.chunk.js",
+    "static/media/bg.png": "/plant-disease/static/media/bg.11d5b964bb8761bd018f.png",
+    "index.html": "/plant-disease/index.html",
+    "main.71d072cd.css.map": "/plant-disease/static/css/main.71d072cd.css.map",
+    "main.99d8b444.js.map": "/plant-disease/static/js/main.99d8b444.js.map",
+    "787.3593ac94.chunk.js.map": "/plant-disease/static/js/787.3593ac94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71d072cd.css",
+    "static/js/main.99d8b444.js"
+  ]
+}
